@@ -1,2 +1,2 @@
-# The program uses only Python 3 standard-library modules.
-# pytest>=8.0  # Optional: needed only to run the automated tests.
+pytest>=8.0
+pytest-cov>=5.0
